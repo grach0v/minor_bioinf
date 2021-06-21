@@ -66,14 +66,6 @@
 
 <img src="https://github.com/grach0v/minor_bioinf/blob/master/Results/ENCFF662NTZ_filtered.png" width="1000"/>
 
-## Ассоциированные гены и GO анализ
-
- Нашлось 2201 генов ассоциированных с пересечениями, из них 1249 уникальных.
- 
- ### Таблица с результатами GO анализа:
- 
- <img src="https://github.com/gudki/hse21_H3K27me3_ZDNA_human/raw/main/images/GO_image.png" width="1000"/>
- 
  ## Команды:
  
 Чтобы разархивировать используем zcat, чтобы выбрать 1-5 столбец воспользуемся cut -f1-5 
